@@ -171,3 +171,5 @@ This will open your browser up and you will see **Jupyter's Home Page** containi
 
 Congratulations! You are ready to go through the chapters' notebooks!
 
+# Source 
+* [📚Deep Learning with PyTorch Step-by-Step: A Beginner’s Guide (2022), Автор: Daniel Voigt Godoy](https://t.me/progbook_extra/571)
